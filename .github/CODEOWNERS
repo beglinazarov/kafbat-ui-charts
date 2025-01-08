@@ -1,7 +1,7 @@
 *                           @beglinazarov
 
 # HELM CHARTS
-/charts/                    @kafbat/devops
+/charts/                    @beglinazarov
 
 # INFRA
-.github/workflows           @kafbat/devops
+.github/workflows           @@beglinazarov
